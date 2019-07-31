@@ -37,5 +37,6 @@
 jump字段的列表长度作为决定是否显示交互按钮，长度为1时，自动跳转至列表中的第一个元素所指向的位置，长度为2时，显示交互按钮，第一个元素为确定位置，第二个元素为否定位置
 text字段内容为文字显示内容
 
-
-![avatar](http://baidu.com/pic/doge.png)
+# 特别说明
+关注订阅号，随时随地关注天霸的一举一动
+![avatar](https://ninedeathsorganization.github.io/Nine_Death/erweima.jpeg)
